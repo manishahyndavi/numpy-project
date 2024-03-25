@@ -6,4 +6,4 @@
 - To find if the number of devices used by the students impacts the CGPA of student.
 - To  check if the number of hours spending on the electronic devices has any influence on the student’s academics.
 - To ascertain the purpose of usage of electronic devices by the students.
-- To know the stats of top three students who participated in the study.
+- To know the stats of top three students who participated in this study.
